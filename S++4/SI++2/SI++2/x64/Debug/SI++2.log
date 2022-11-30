@@ -1,0 +1,5 @@
+﻿  SI++2.cpp
+  business_calculator.cpp
+  Создание кода...
+C:\Users\Zero\Desktop\2 семак\Прога\SI++2g\SI++2\SI++2\business_calculator.cpp(74): warning C4717: business_calculator::operator+: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  SI++2.vcxproj -> C:\Users\Zero\Desktop\2 семак\Прога\SI++2g\SI++2\x64\Debug\SI++2.exe
